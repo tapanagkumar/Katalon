@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebServiceRequestEntity>
    <description></description>
-   <name>New Request</name>
+   <name>New_SOAP_Request</name>
    <tag></tag>
    <elementGuidId>293bbb29-74b4-4b76-a397-45d79edd3c05</elementGuidId>
    <selectorMethod>BASIC</selectorMethod>

@@ -19,7 +19,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKe
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import internal.GlobalVariable as GlobalVariable
 
-response = WS.sendRequest(findTestObject('New Request'))
+response = WS.sendRequest(findTestObject('New_SOAP_Request'))
 
 WS.verifyResponseStatusCode(response, 200)
 
