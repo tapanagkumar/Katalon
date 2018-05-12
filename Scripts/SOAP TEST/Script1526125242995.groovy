@@ -23,5 +23,3 @@ response = WS.sendRequest(findTestObject('New_SOAP_Request'))
 
 WS.verifyResponseStatusCode(response, 200)
 
-WS.verifyEqual(response, 1, FailureHandling.STOP_ON_FAILURE)
-
